@@ -1,3 +1,7 @@
 {
-    "cmake.sourceDirectory": "C:/Users/psake/OneDrive/Documents/PlatformIO/Projects/smarthive_1/.pio/libdeps/esp32doit-devkit-v1/ArduinoJson"
+    "cmake.sourceDirectory": "C:/Users/psake/OneDrive/Documents/PlatformIO/Projects/smarthive_1/.pio/libdeps/esp32doit-devkit-v1/ArduinoJson",
+    "files.associations": {
+        "string": "cpp"
+    },
+    "cmake.configureOnOpen": true
 }
