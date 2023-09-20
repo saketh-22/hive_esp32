@@ -54,4 +54,3 @@ Data             5
 3. Once the code has been uploaded, open the Serial Monitor.
 4. You should see the ESP32 board print out its IP address and the MQTT broker IP address.
 5. You should also see the ESP32 board print out the temperature, humidity, and air quality data.
-6. You 
