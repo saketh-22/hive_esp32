@@ -2,7 +2,7 @@
 
 - main.cpp file in src directory
 
- ```
+
 # ESP32 Beehive Monitoring and Disease Control
 
 This repository contains the files necessary to deploy an ESP32 microcontroller for beehive monitoring and disease control. 
