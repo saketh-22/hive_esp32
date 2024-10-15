@@ -1,11 +1,10 @@
-# Files to deploy esp32 for beehive monitoring and disease control
-
-- main.cpp file in src directory
-
-
 # ESP32 Beehive Monitoring and Disease Control
 
 This repository contains the files necessary to deploy an ESP32 microcontroller for beehive monitoring and disease control. 
+
+# Files to deploy esp32 for beehive monitoring and disease control
+
+- main.cpp file in src directory
 
 ## Requirements
 
@@ -14,7 +13,7 @@ This repository contains the files necessary to deploy an ESP32 microcontroller 
 * DHT22 temperature and humidity sensor and/or OneWire DS18B20 Temperature sensor
 * 12V power supply
 * Breadboard and jumper wires
-* This code also supports a heater connected in the hive to maintain the temperatures. (Optional!)
+* This code also supports a heater connected to the hive to maintain the temperatures. (Optional!)
 
 ## Setup
 
