@@ -2,7 +2,7 @@
 
 This repository contains the files necessary to deploy an ESP32 microcontroller for beehive monitoring and disease control. 
 
-# Files to deploy esp32 for beehive monitoring and disease control
+## Files to deploy esp32 for beehive monitoring and disease control
 
 - main.cpp file in src directory
 
